@@ -1,5 +1,5 @@
 [workspace]
 resolver = "2"
 members = [
-    "01_hello_world", "hello_world_01",
+    "hello_world_01",
 ]

@@ -3,4 +3,5 @@ resolver = "2"
 members = [
     "hello_world_01",
     "variables_02",
+    "data_types_03",
 ]
